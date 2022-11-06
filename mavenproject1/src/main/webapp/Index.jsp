@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <%
+            for (int i = 0; i<10 ; i++) {%>
+                <p>çok afedersiniz ama götüne koyim jsp</p>      
+            <%}
+        %>
     </body>
 </html>
