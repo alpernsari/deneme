@@ -14,7 +14,7 @@
     <body>
         <%
             for (int i = 0; i<10 ; i++) {%>
-                <p>çok afedersiniz ama götüne koyim jsp</p>      
+                <p>çok afedersiniz ama kaanınkine koyim jsp</p>      
             <%}
         %>
     </body>
